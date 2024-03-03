@@ -1,0 +1,1 @@
+These are some of my experiences in Python with following [this OOP Python Course](https://www.udemy.com/course/python-object-oriented-programming-oop) on Udemy in the summer break to enhance my Python OOP skills.
